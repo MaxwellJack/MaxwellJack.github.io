@@ -1,37 +1,34 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MaxwellJack/MaxwellJack.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ 个人简历
+姓　　名：陈康林                         性  　别：男             
+出生年月：1997年6月27日               健康状况：健康
+在读院校：防灾科技学院             专　　业：信息管理与信息系统
+电子邮件15030627756@163.com              政治面貌：共青团员
+联系电话：15030627756                     邮    编： 101601                              
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+求职意向
+关于计算机软件编程方面的工作
 
-### Markdown
+教育背景
+2015年入学防灾科技学院，目前在防灾科技学院就读，是一名大二学生
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+个人技能
+熟练掌握Word、Excel、PowerPoint等office办公软件
+精通AdobeIn Design、photoshop软件
+了解C语言、java、数据结构、python等编程语言
 
-```markdown
-Syntax highlighted code block
+获奖情况 
+高中时获得三好学生称号
+在大学期间拿到机动车驾驶证、优秀团员、计算机一级证书、善行100一星级志愿者证、献血证、青年志愿者协会会长、电子商务协会会长、创青春河北省创业实践类二等奖 
 
-# Header 1
-## Header 2
-### Header 3
+实践与实习 
+在大一暑假期间做暑假工
+在校期间做过一些兼职，如：发传单、听听力
+在校进行暑期实践
 
-- Bulleted
-- List
+自我评价 
+本人喜欢帮助别人，对工作认真，不怕辛苦，具有责任心，遇到事情可以理智的进行思考，在自己做错的情况下可以主动承担错误并向别人道歉，喜欢换位思考。但自己不够自信，对自己认识不足，于是没有主见，很容易相信别人。没有恒心，做事容易放弃。胆小怕事。患得患失。
+另附
+相信您的信任与我的实力将为我们带来共同的成功!祝贵公司真真日上
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaxwellJack/MaxwellJack.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
