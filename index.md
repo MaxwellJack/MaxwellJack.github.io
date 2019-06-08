@@ -100,10 +100,10 @@
     <section>
       <table style="width:100%">
         <tr>
+          <td class="item-title">称呼：</td>
+          <td class="item-content">陈先生</td>
           <td class="item-title">求职意向：</td>
           <td class="item-content">python工程师</td>
-          <td class="item-title">专业：</td>
-          <td class="item-content">信息管理与信息系统</td>
         </tr>
         <tr>
           <td class="item-title">电话号码：</td>
